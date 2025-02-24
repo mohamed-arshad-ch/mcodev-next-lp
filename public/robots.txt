@@ -1,9 +1,0 @@
-# *
-User-agent: *
-Allow: /
-
-# Host
-Host: https://www.mcodevbytes.in
-
-# Sitemaps
-Sitemap: https://www.mcodevbytes.in/sitemap.xml
